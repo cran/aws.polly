@@ -1,0 +1,15 @@
+e3f5d648e74fea89b12b3ad157c4ab9f *DESCRIPTION
+1542bf4c7bbc6f543f1987f6a6542a28 *NAMESPACE
+5dd2bf6a838b78e4a676e4cec56d99bf *NEWS.md
+878d58a3b9311486113d57317e576e43 *R/aws.polly-package.R
+3cf376748395e5b9c172aeb811855281 *R/lexicons.R
+c29958bb1d93e40e386f2b4037058676 *R/list_voices.R
+bc2332e1dc03d81e94f594a4851ac27a *R/pollyHTTP.R
+0fb567b8d67fe5e8947a01c3ac6ab337 *R/synthesize.R
+7c679824b811bdc7fa2932c9ab688bd1 *README.md
+9793aeb85e8c9afa7e072c01c54e43dc *inst/CITATION
+b32da34f5484ff3595991f03684d076c *man/aws.polly-package.Rd
+ce7ebce69be66f4c56ee2c10d2ed98bd *man/lexicons.Rd
+e6f713750dedcf2ce0f9a8bd0ab473a1 *man/list_voices.Rd
+109fd1f6bd0a0e4c93c64c929f433645 *man/pollyHTTP.Rd
+296457c22909a629b25dc555b44d20db *man/synthesize.Rd
